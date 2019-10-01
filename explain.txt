@@ -1,6 +1,6 @@
-soft.java�̐���
+soft.javaの説明
 
-�{�A�v���P�[�V�������g�p����ׂɗ\�߁A�uuser.txt�v�ufood.java�v�uorder.java�v��3��ނ̃e�L�X�g�t�@�C����p�ӂ���K�v������B
-(��L�̃e�L�X�g�t�@�C���ɂ̓e�X�g�p�f�[�^���i�[����Ă���)
+本アプリケーションを使用する為に予め、「user.txt」「food.java」「order.txt」の3種類のテキストファイルを用意する必要がある。
+(上記のテキストファイルにはテスト用データが格納されている)
 
-soft.jar���N�����邱�ƂŖ{�A�v���P�[�V�������N�����邱�Ƃ��o����
+soft.jarを起動することで本アプリケーションを起動することが出来る
